@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Tiyumba a talented 14 year old front-end developer
+- 👋 Hi, I’m Tiyumba a talented 15 year old developer
 - 👀 I’m interested in web development and application development
-- 🌱 I’m currently learning react and python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I work with  react,flutter,express js,python and javascript.
 - 📫 How to reach me ; email:tiyumbanazeeru@gmail.com
 
 <!---
