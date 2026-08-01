@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Tiyumba a  Full Stack web developer
 - **👀 I’m interested in web development and application development**
-- **Frameworks and Languages I use** : `Next Js`,`React`,`Flutter`,`Express js`, `Python` ,`Javascript` , `TypeScript`, `Potsgres SQL`, `My SQL`. `Prisma` , `Bootstrap`.
+- **Frameworks and Languages I use** : `Next Js`,`React`,`Express js`,`Javascript` , `TypeScript`, `Potsgres SQL`,  `Prisma` , `Bootstrap`.
 - **Tools and Software I use** : `Vs Code`, `Postman` ,`Git` , `Adobe XD`, `Figma` , `dbdiagram.io` , `draw.io` ,`Node Js` , `Chrome`.
 - **📫 How to reach me** ; `Email:`  tiyumbanazeeru@gmail.com .
 
