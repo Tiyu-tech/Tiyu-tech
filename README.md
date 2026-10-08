@@ -1,10 +1,9 @@
-<!-- Header banner -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=220&section=header&text=Hi,%20I'm%20Tiyumba%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+modern+web+apps+🚀;Next.js+%7C+React+%7C+TypeScript;Turning+ideas+into+products+💡;Let's+build+something+great+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+web+%26+mobile+apps+🚀;Next.js+%7C+React+%7C+React+Native;Turning+ideas+into+products+💡;Let's+build+something+great+together!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,10 +34,12 @@ const tiyumba = {
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,express,js,ts,postgres,prisma,bootstrap,tailwind&perline=9" />
+<br/><br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
 
-`Next.js` • `React` • `Express.js` • `JavaScript` • `TypeScript` • `PostgreSQL` • `Prisma` • `Bootstrap` • `Tailwind CSS`
+`Next.js` • `React` • `React Native` • `Express.js` • `JavaScript` • `TypeScript` • `PostgreSQL` • `Prisma` • `Bootstrap` • `Tailwind CSS`
 
 ## 🧰 Tools & Software
 
@@ -57,7 +58,7 @@ const tiyumba = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tiyu-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tiyu-tech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiyu-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" />
 
 <br/>
